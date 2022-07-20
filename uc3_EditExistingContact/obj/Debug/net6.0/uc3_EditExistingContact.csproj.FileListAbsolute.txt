@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\create address book\uc3_EditExistingContact\obj\Debug\net6.0\uc3_EditExistingContact.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\create address book\uc3_EditExistingContact\obj\Debug\net6.0\uc3_EditExistingContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\create address book\uc3_EditExistingContact\obj\Debug\net6.0\uc3_EditExistingContact.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\create address book\uc3_EditExistingContact\obj\Debug\net6.0\uc3_EditExistingContact.AssemblyInfo.cs
+C:\Users\mani1\source\repos\create address book\uc3_EditExistingContact\obj\Debug\net6.0\uc3_EditExistingContact.csproj.CoreCompileInputs.cache
